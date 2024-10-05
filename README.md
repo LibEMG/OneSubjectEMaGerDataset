@@ -8,4 +8,4 @@ Device details:
 - Sampling frequency: 1010 Hz
 - Channels: 64
 
-For more information and citation, see <https://ieeexplore.ieee.org/document/10340612> (DOI: <10.1109/EMBC40787.2023.10340612>).
+For more information and citation, see <https://ieeexplore.ieee.org/document/10340612> (DOI: 10.1109/EMBC40787.2023.10340612).
